@@ -6,7 +6,7 @@ HDRS = \
 		includes
 
 SRCS = \
-	   src/*.cpp
+	   src/methods.cpp
 
 
 .PHONY: all clean
